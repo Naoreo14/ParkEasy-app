@@ -27,3 +27,5 @@ Drivers in urban areas who need quick and reliable parking solutions, including 
 - Deployed on Vercel 
 ## Design
 https://www.figma.com/design/Jss3JSaOoot6zjMpGFNTwn/My-app---ParkEasy?node-id=0-1&t=1KerULBusmDmqvtR-1
+## Live Demo
+parkeasy-99arjiw76-nao3.vercel.app
