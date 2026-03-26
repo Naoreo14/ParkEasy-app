@@ -12,7 +12,7 @@ Drivers in urban areas who need quick and reliable parking solutions, including 
 - Feature 5: [Real-time updates: Users can see live availability using community reports.]
 ### Could Have
 - Feature 6: [Payment integration: Pay for parking directly through the app.]
-- Feature 7: [Predictive suggestions: Suggests spots where the user is most likely to find free parking based on past patterns.]
+- Feature 7: [Implement location: Address-based parking availability.]
 ## Data Model
 - **ParkingSpot**: id, name, location (latitude, longitude), price, type (disable,delivery…), hours, availability
 - **User**: id, name, email, payment_info, driver_license
