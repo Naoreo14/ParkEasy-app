@@ -25,5 +25,4 @@ Drivers in urban areas who need quick and reliable parking solutions, including 
 - Payment integration (Stripe/PayPal)
 - Google Maps API / Mapbox for maps 
 ## Design
-https://www.figma.com/design/Jss3JSaOoot6zjMpGFNTwn/My-app---ParkEasy?node-id=0-1&t=1KerULBusmDmqvtR-1
-
+https://www.figma.com/design/jHQup1CVgRovSQRL6Mq5Sa/Untitled?node-id=0-1&t=iEDD6QvJsg0m6kjJ-1
